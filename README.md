@@ -1,2 +1,4 @@
 # goMong
-simple api with mongoDB and Go
+ api with mongoDB and Go 
+
+#IN PROGRESS
